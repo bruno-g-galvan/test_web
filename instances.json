@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Database-1",
+        "engine": "MySQL"
+    },
+    {
+        "name": "Database-2",
+        "engine": "PostgreSQL"
+    },
+    {
+        "name": "Cache-1",
+        "engine": "Redis"
+    }
+]
